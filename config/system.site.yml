@@ -1,0 +1,14 @@
+uuid: b9710d7f-8905-4421-8970-623d508c9863
+name: ruby-circleci-d8-new
+mail: megan.tan01@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
